@@ -1,4 +1,5 @@
 function login(username, password) {
+    // Updated login function from feature branch
     // Kiểm tra dữ liệu rỗng
     if (!username || !password) {
         return false;
